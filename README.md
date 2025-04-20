@@ -11,11 +11,13 @@
 ![MSE Short](plots/mse_less_time.png)
 
 ### Bartlett Lake SPEC Predictions with Standard Deviation
+
 Bartlett Lake configuration specifications:
-#Big-cores = 12
-#Small-cores = 0
-Cache Size = [18M,24M,30M]
-Frequency = [1.8GHz, 3.4GHz]
-Hyperthreading = [Enable, Disable]
+
+- #Big-cores = 12
+- #Small-cores = 0
+- Cache Size = [18M,24M,30M]
+- Frequency = [1.8GHz, 3.4GHz]
+- Hyperthreading = [Enable, Disable]
 
 ![SPEC BartlettLake](plots/spec_bartlettlake_predictions.png)
